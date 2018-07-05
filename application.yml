@@ -6,5 +6,5 @@ logging:
           samples: INFO
 
 fortune:
-  fallbackFortune: Your future is in Beijing City baby!
+  fallbackFortune: Your future is in Shanghai City baby!
 
